@@ -1,0 +1,17 @@
+https://www.arca.fiocruz.br/handle/icict/10520
+http://www.periodicos.usp.br/incid/article/view/42353/46024
+http://www.jhi-sbis.saude.ws/ojs-jhi/index.php/jhi-sbis/article/viewFile/216/141
+http://portalatlanticaeditora.com.br/index.php/enfermagembrasil/article/view/98/186
+https://www.cremec.org.br/pareceres/2007/par1407.htm#:~:text=Os%20prontu%C3%A1rios%20m%C3%A9dicos%20em%20suporte,Permanente%20de%20Avalia%C3%A7%C3%A3o%20de%20Documentos.
+https://devtools.com.br/blog/como-criptografar-senha-no-mysql/
+https://www.pixeon.com/blog/guardar-os-exames-de-pacientes/
+https://www.luiztools.com.br/post/como-usar-nodejs-mysql/
+https://www.youtube.com/watch?v=BN9qHcelIjI&t=17s&ab_channel=B%C3%B3sonTreinamentos
+https://www.youtube.com/watch?v=qT_5y17gJug&ab_channel=Umbler
+https://www.w3schools.com/sql/sql_update.asp
+https://www.youtube.com/watch?v=rXWa9jtHu7g&ab_channel=DankiCode
+https://pt.stackoverflow.com/questions/329679/maneira-mais-segura-para-criptografar-senhas-em-mysql-e-a-mais-f%C3%A1cil
+
+
+
+https://dev.to/brpadilha/criando-um-password-hash-para-seu-usuario-no-banco-de-dados-1g67
