@@ -1,1 +1,3 @@
 # Sistema_PHP
+Importante:
+Este sistema foi desenvolvido no XAMPP e tinha como caminho htdocs\TCC\...
