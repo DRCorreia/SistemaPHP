@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font: normal 75% Arial, Helvetica, sans-serif;
+  }
+  canvas {
+    display: block;
+    vertical-align: bottom;
+  }
+  /* ---- tsparticles container ---- */
+  #tsparticles {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #0d47a1;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  #login .container #login-row #login-column .login-box {
+    margin-top: 220px;
+    max-width: 600px;
+    height: 250px;
+    border: 1px solid #fffafa;
+  }
+  #login .container #login-row #login-column .login-box #login-form {
+    padding: 20px;
+  }
+  #login .container #login-row #login-column .login-box #login-form #register-link {
+    margin-top: -85px;
+  }
